@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zvj8+Jq+WaYSze8q36TCBkZxptFnpF6sS9K94al4mrduRcCZLKkvaRUfV2CHny0rbs04aiuiiFmrAgHvZHM28g==",
+  "success": true,
+  "projectFilePath": "/home/Shen/Swcyen/2023-2024/3rd_semester/LTWUD/QLNS/QLNS.csproj",
+  "expectedPackageFiles": [
+    "/home/Shen/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
