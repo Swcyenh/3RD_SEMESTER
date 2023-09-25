@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLNS", "QLNS.csproj", "{1627D258-7284-450D-BE58-BA454A8FB25F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLNS", "QLNS.csproj", "{D5736455-01CF-423F-874A-8723A753C692}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1627D258-7284-450D-BE58-BA454A8FB25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1627D258-7284-450D-BE58-BA454A8FB25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1627D258-7284-450D-BE58-BA454A8FB25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1627D258-7284-450D-BE58-BA454A8FB25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5736455-01CF-423F-874A-8723A753C692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5736455-01CF-423F-874A-8723A753C692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5736455-01CF-423F-874A-8723A753C692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5736455-01CF-423F-874A-8723A753C692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {59A17030-4BD2-48E0-B86B-65A1441E85B1}
+		SolutionGuid = {39AE0D62-F896-4D72-A06D-CAFB84721CF9}
 	EndGlobalSection
 EndGlobal

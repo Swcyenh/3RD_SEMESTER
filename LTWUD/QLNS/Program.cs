@@ -1,8 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using MySqlConnector;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddTransient<MySqlConnection>(_ => new MySqlConnection(builder.Configuration.GetConnectionString("Default")));
+// Add services to the container.https://msdn.microsoft.com/query/roslyn.query?appId%3Droslyn%26k%3Dk%28CS0021%29
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -25,4 +28,3 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-
